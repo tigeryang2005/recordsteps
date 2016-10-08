@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RecordSteps</string>
+    <string name="title">简易计步器</string>
+    <string name="init_step">0</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
 </resources>
